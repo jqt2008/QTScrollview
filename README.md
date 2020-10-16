@@ -1,6 +1,6 @@
 # QTScrollview
 
-# 一页显示几个（默认8个）
+// 一页显示几个（默认8个）
 @property (assign, nonatomic) NSInteger index;
 
 
